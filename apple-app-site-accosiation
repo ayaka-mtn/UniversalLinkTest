@@ -3,7 +3,7 @@
        "apps": [],
         "details": [
            {
-               "appID":"Panasonic Corporation(Ent).panasonic.SmartLockEth",
+               "appID":"PanasonicCorporation(Ent).panasonic.SmartLockEth",
                "paths":[ "*" ]
            }
          ]
